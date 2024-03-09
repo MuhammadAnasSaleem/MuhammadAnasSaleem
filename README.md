@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Anas</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding" width ="200" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952sw63hc77cse0egy1kud6yq9q4pd9uxi0pghuvyvs&ep=v1_gifs_search&rid=200w.gif&ct=g"
+<img align="right" alt="coding" width ="200" src="https://media3.giphy.com/media/cZfjwoHXqSzZX7j1vU/200w_s.gif?cid=8d8c03588ipxenlwls7o1vw8h2oat306a37gkhp9p4k2qxl7&ep=v1_gifs_search&rid=200w_s.gif&ct=g"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadanassaleem&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadanassaleem" /> </p>
 
 - 🌱 I’m currently learning **Frontend Development**
